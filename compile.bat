@@ -1,0 +1,1 @@
+g++ -g -Wall -I./src/cpp ./src/cpp/shp_2_txt.cpp -static -L ./src/cpp -l shp.dll -o ./bin/shp_2_txt
